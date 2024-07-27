@@ -6,7 +6,7 @@
 ### Lec 1: Traversals 
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
-|1 | Intro to Trees  |  | Easy | [view](link) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/intro-to-trees.cpp)|
+|1 | Intro to Trees  |  | Easy | [view](https://www.geeksforgeeks.org/problems/introduction-to-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-trees) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/intro-to-trees.cpp)|
 
 
 ### Lec 2: Medium Problems 
