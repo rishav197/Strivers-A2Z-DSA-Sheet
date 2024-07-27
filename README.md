@@ -1,6 +1,6 @@
 # Strivers-A2Z-DSA-Sheet
 
-
+## Sheet Link - [view](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ## Binary Tree - BT
 ### Lec 1: Traversals 
