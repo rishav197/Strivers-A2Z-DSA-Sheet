@@ -17,20 +17,3 @@ class Solution {
     }
 };
 
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int i;
-        cin >> i;
-        Solution ob;
-        int res = ob.countNodes(i);
-
-        cout << res;
-        cout << "\n";
-    }
-}
-
-// } Driver Code Ends
