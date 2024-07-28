@@ -6,10 +6,11 @@
 ### Lec 1: Traversals 
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
-|1 | Intro to Trees  |  | Easy | [view](https://www.geeksforgeeks.org/problems/introduction-to-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-trees) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/intro-to-trees.cpp)|
-|2 | BT preOrder trsl  |  | Easy | [view](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-preorder-trsl.cpp)|
-|3 | BT inOrder trsl  |  | Easy | [view](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-inorder-trsl.cpp)|
-|4 | BT postOrder trsl |  | Easy | [view](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-postorder-trsl.cpp)|
+|1 | Intro to Trees  |  | Easy | [view](https://www.geeksforgeeks.org/problems/introduction-to-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-trees) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/intro-to-trees.cpp)|
+|2 | BT representation in CPP |  | Easy | [view](https://www.geeksforgeeks.org/problems/binary-tree-representation/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=binary-tree-representation) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-rep-in-cpp.cpp)|
+|3 | BT preOrder trsl  |  | Easy | [view](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-preorder-trsl.cpp)|
+|4 | BT inOrder trsl  |  | Easy | [view](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-inorder-trsl.cpp)|
+|5 | BT postOrder trsl |  | Easy | [view](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-postorder-trsl.cpp)|
 
 
 ### Lec 2: Medium Problems 
