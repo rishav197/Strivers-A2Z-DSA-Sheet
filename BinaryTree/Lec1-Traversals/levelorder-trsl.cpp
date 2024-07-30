@@ -37,7 +37,7 @@ public:
             
             if(topNode==NULL){ //complete level has been traversed
                 ans.push_back(level);
-                level.clear();
+                level.clear(); //imp to empty the current level vt here 
 
                 if(!q.empty()){
                     q.push(NULL);
