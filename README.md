@@ -23,7 +23,14 @@
 | 4 | Maximum path sum |  | Hard | [view](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec2-Medium-Problems/max-path-sum.cpp) |
 
 
+
 <!-- This is a single/multi-line comment -->
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
  -->
+
+
+ ### Lec 2: Hard Problems 
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | Root to Leaf paths |  | Hard | [view](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths) | [view]() |
