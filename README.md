@@ -33,4 +33,4 @@
  ### Lec 2: Hard Problems 
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
-| 1 | Root to Leaf paths |  | Hard | [view](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths) | [view]() |
+| 1 | Root to Node paths in BT |  | Hard | [view](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec3-Hard-Problems/root-to-node-path-in-BT.cpp) |
