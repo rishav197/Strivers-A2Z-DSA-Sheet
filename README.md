@@ -20,10 +20,10 @@
 |------|---------|---------------------|-------|------|----------|
 | 1 | Height of BT |  | Easy | [view](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec2-Medium-Problems/height-of-BT.cpp) |
 | 2 | Diameter of BT |  | Easy/Medium | [view]() | [view]() |
-| 4 | Maximum path sum |  | Hard | [view](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [view]()|
+| 4 | Maximum path sum |  | Hard | [view](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec2-Medium-Problems/max-path-sum.cpp) |
 
 
 <!-- This is a single/multi-line comment -->
 <!--
-|3 | Problem   |  | Easy | [view]() | [view]()|
+|3 | Problem   |  | Easy | [view]() | [view]() |
  -->
