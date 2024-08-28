@@ -34,7 +34,9 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | Root to Node paths in BT |  | Hard | [view](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec3-Hard-Problems/root-to-node-path-in-BT.cpp) |
+| 4 | Check for Children sum property   |  | Medium | [view](https://www.geeksforgeeks.org/problems/children-sum-parent/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=hildren-sum-parent) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec3-Hard-Problems/Check-for-child-sum-property.cpp) |
 | 7 | Count total in nodes in a complete BT   |  | Easy | [view](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec3-Hard-Problems/count-total-Nodes-in-complete-BT.cpp) |
+
 
 
 <!-- This is a single/multi-line comment -->
