@@ -13,6 +13,11 @@
 |6 | BT inOrder trsl  |  | Easy | [view](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-inorder-trsl.cpp)|
 |7 | BT postOrder trsl |  | Easy | [view](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec%201%20Traversals/BT-postorder-trsl.cpp)|
 |8 | LevelOrder trsl |  | Medium | [view](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec1-Traversals/levelorder-trsl.cpp) |
+| 9 | Iterative Preorder trsl of BT | using stack | Easy | [view](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec1-Traversals/Iterative-preorder-trsl.cpp) |
+| 10 | Iterative Inorder trsl of BT | using stack | Easy | [view](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec1-Traversals/Iterative-inorder-trsl.cpp) |
+| 11 | Postorder trsl using 2 Stacks | using two stacks | Easy | [view](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec1-Traversals/Iterative-postorder-trsl-using-two-stacks.cpp) |
+| 12 | Postorder trsl using 1 Stack | using single stack | Easy | [view](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BinaryTree/Lec1-Traversals/Iterative-postorder-trsl-using-single-stack.cpp) |
+
 
 
 ### Lec 2: Medium Problems 
