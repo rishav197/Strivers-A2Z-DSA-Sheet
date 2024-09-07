@@ -54,11 +54,16 @@
 
 ## Binary Search Tree - BST
 ### Lec 1: Concepts
-| 1 | Search in a BST | two approaches, one is iterative and other is recursive | Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | Search in a BST | two approaches, one is iterative and other one is recursive | Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
+
 
 
 
 <!-- This is a single/multi-line comment -->
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
+
+| 1 | Search in a BST | two approaches, one is iterative and other is recursive Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
  -->
