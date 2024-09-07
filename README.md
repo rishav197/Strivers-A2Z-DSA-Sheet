@@ -56,14 +56,18 @@
 ### Lec 1: Concepts
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
-| 1 | Search in a BST | two approaches, one is iterative and other one is recursive | Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
+| 2 | Search in a BST | two approaches, one is iterative and other one is recursive | Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
+| 3 | Find min/max in BST |  | Easy | [view](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/find-min-max-in-BST.cpp) |
 
 
+### Lec 2: Practice Problems
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 3 | Insert a given Node in BST |  | Easy/Medium | [view](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/insert-a-given-node-in-BST.cpp) |
 
 
 <!-- This is a single/multi-line comment -->
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
-| 1 | Search in a BST | two approaches, one is iterative and other is recursive Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
  -->
