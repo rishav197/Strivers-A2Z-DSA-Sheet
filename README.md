@@ -64,6 +64,7 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 3 | Insert a given Node in BST |  | Easy/Medium | [view](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/insert-a-given-node-in-BST.cpp) |
+| 6 | Validate BST |  | Medium | [view](https://leetcode.com/problems/validate-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/validate-bst.cpp) |
 
 
 <!-- This is a single/multi-line comment -->
