@@ -56,6 +56,7 @@
 ### Lec 1: Concepts
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
+| 1 | Binary Search Trees | using bst property, inorder of bst is sorted | Easy | [view](https://www.geeksforgeeks.org/problems/binary-search-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=binary-search-trees) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/binary-srch-trees.cpp) |
 | 2 | Search in a BST | two approaches, one is iterative and other one is recursive | Easy | [view](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/search-in-bst.cpp) |
 | 3 | Find min/max in BST |  | Easy | [view](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec1-Concepts/find-min-max-in-BST.cpp) |
 
