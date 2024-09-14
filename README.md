@@ -70,7 +70,7 @@
 | 7 | LCA in BST |  | Medium | [view](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/LCA-in-bst.cpp) |
 | 8 | Construct a BST from a preorder traversal |  | Medium | [view](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/bst-from-preorder.cpp) |
 | 9 | Inorder Predecessor and Successor |  | Medium | [view](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/predecessor-and-successor.cpp) |
-| 11 | Two sum in BST |  | Medium | [view](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/two-sum-in-bst.cpp) |
+| 11 | Two sum in BST |  | Easy/Medium | [view](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/two-sum-in-bst.cpp) |
 
 
 
