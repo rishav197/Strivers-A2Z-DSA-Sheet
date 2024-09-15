@@ -65,6 +65,7 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 3 | Insert a given Node in BST |  | Easy/Medium | [view](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/insert-a-given-node-in-BST.cpp) |
+| 4 | Delete a Node in BST |  | Medium | [view](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/Delete-Node-in-BST.cpp) |
 | 5 | kth smallest/largest in BST |  | Medium | [view](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/kth-smallest-in-bst.cpp) |
 | 6 | Validate BST |  | Medium | [view](https://leetcode.com/problems/validate-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/validate-bst.cpp) |
 | 7 | LCA in BST |  | Medium | [view](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/LCA-in-bst.cpp) |
