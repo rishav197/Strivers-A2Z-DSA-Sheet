@@ -87,7 +87,13 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | Check if an array represents a max/min heap or not | process all nodes except leaf nodes, In processing compare the node with the left and right child | Medium | [view](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec1-Learning/array-represent-max-heap-or-not.cpp) |
+
 ### Lec 2: Medium Problems
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | Kth largest element in an array (using priority queue) |  | Medium | [view](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-largest.cpp) |
+| 2 | Kth smallest element in an array (using priority queue) |  | Medium | [view](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-smallest.cpp) |
+
 ### Lec 3: Hard Problems
 
 <!--
