@@ -74,8 +74,22 @@
 | 11 | Two sum in BST |  | Easy/Medium | [view](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/BST/Lec2-Practice-Problems/two-sum-in-bst.cpp) |
 
 
-
 <!-- This is a single/multi-line comment -->
+<!--
+|3 | Problem   |  | Easy | [view]() | [view]() |
+
+ -->
+
+
+
+## Heaps
+### Lec 1: Learning
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | Check if an array represents a max/min heap or not |  | Medium | [view](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec1-Learning/array-represent-max-heap-or-not.cpp) |
+### Lec 2: Medium Problems
+### Lec 3: Hard Problems
+
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
