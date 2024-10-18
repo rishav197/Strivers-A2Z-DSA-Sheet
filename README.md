@@ -95,6 +95,7 @@
 | 2 | Kth smallest element in an array (using priority queue) |  | Medium | [view](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-smallest.cpp) |
 
 ### Lec 3: Hard Problems
+| 1 | Minimum cost of ropes |  | Medium | [view](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec3-Hard-Problems/min-cost-of-ropes.cpp) |
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
