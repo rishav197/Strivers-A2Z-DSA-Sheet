@@ -87,6 +87,8 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | Check if an array represents a max/min heap or not | process all nodes except leaf nodes, In processing compare the node with the left and right child | Medium | [view](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec1-Learning/array-represent-max-heap-or-not.cpp) |
+| 4 | Convert min heap to max heap |  | Medium | [view](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec1-Learning/convert-minH-to-maxH.cpp) |
+
 
 ### Lec 2: Medium Problems
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
