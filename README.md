@@ -97,6 +97,7 @@
 | 1 | Kth largest element in an array (using priority queue) |  | Medium | [view](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-largest.cpp) |
 | 2 | Kth smallest element in an array (using priority queue) |  | Medium | [view](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-smallest.cpp) |
 | 3 | Merge K Sorted arrays |  | Medium | [view](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/merge-k-sorted-arrays.cpp) |
+| 4 | Replace each array element by its corresponding rank |  | Easy | [view](https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/replace-each-array-by-rank.cpp) |
 
 
 ### Lec 3: Hard Problems
