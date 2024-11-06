@@ -96,6 +96,8 @@
 |------|---------|---------------------|-------|------|----------|
 | 1 | Kth largest element in an array (using priority queue) |  | Medium | [view](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-largest.cpp) |
 | 2 | Kth smallest element in an array (using priority queue) |  | Medium | [view](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/kth-smallest.cpp) |
+| 3 | Merge K Sorted arrays |  | Medium | [view](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec2-Medium-Problems/merge-k-sorted-arrays.cpp) |
+
 
 ### Lec 3: Hard Problems
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
