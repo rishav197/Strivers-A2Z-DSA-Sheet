@@ -104,7 +104,7 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | Minimum cost of ropes |  | Medium | [view](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec3-Hard-Problems/min-cost-of-ropes.cpp) |
-| 6 | K most fequent elements |  | Medium | [view](https://leetcode.com/problems/top-k-frequent-elements/description/) | [view]() |
+| 6 | K most fequent elements |  | Medium | [view](https://leetcode.com/problems/top-k-frequent-elements/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Heaps/Lec3-Hard-Problems/top-k-frequent-elements.cpp) |
 
 
 <!--
