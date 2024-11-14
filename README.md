@@ -119,7 +119,7 @@
 | 1 | Graph and Vertices |  | Easy | [view](https://www.geeksforgeeks.org/problems/graph-and-vertices/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/graph-and-vertices.cpp) |
 | 2 | Graph Representation in CPP |  | Easy | [view](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/Graph-representation-CPP.cpp) |
 
-### Problems on BFS/DFS
+### Lec 2: Problems on BFS/DFS
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
