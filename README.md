@@ -118,6 +118,8 @@
 |------|---------|---------------------|-------|------|----------|
 | 1 | Graph and Vertices |  | Easy | [view](https://www.geeksforgeeks.org/problems/graph-and-vertices/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/graph-and-vertices.cpp) |
 | 2 | Graph Representation in CPP |  | Easy | [view](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/Graph-representation-CPP.cpp) |
+| 3 | Graph Representation in Java |  | Easy | [view]() | [view]() |
+| 4 | Connected components |  | Easy |  | [view](https://takeuforward.org/graph/connected-components-in-graphs/) |
 | 5 | BFS |  | Medium | [view](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/BFS-of-graph.cpp) |
 | 6 | DFS   |  | Medium | [view](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec1-Learning/DFS-of-graph.cpp) |
 
