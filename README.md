@@ -126,6 +126,9 @@
 
 
 ### Lec 2: Problems on BFS/DFS
+| 5 | Cycle Detection in undirected Graph (BFS) |  | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-BFS.cpp) |
+| 6 | Cycle Detection in undirected Graph (DFS) |  | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view]() |
+
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
