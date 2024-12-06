@@ -134,6 +134,11 @@
 | 8 | No. of Provinces (gfg) | by using any of these traversal BFS/DFS and a visited map | Medium | [view](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-provinces-gfg.cpp) |
 
 
+### Lec 3: Topo Sort and Problems
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | TopoSort |  | Hard | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view]() |
+
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
