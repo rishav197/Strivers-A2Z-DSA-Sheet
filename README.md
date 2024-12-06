@@ -132,6 +132,7 @@
 | 6 | Cycle Detection in undirected Graph (DFS) |  | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-DFS.cpp) |
 | 7 | No. of Provinces (leetcode) | by using any of these traversal BFS/DFS and a visited map  | Medium | [view](https://leetcode.com/problems/number-of-provinces/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-provinces-lc.cpp) |
 | 8 | No. of Provinces (gfg) | by using any of these traversal BFS/DFS and a visited map | Medium | [view](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-provinces-gfg.cpp) |
+| 14 | Cycle Detection in directed Graph (DFS)    |  | Easy | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1?page=1&category=Graph&sortBy=submissions) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-in-Directed-graph-DFS.cpp) |
 
 
 ### Lec 3: Topo Sort and Problems
