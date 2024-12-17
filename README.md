@@ -139,6 +139,7 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | TopoSort | by using DFS and a data structure Stack | Hard | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/topoSort.cpp) |
+| 2 | Kahn's algo | by using BFS | Medium | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/kahns-algo.cpp) |
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
