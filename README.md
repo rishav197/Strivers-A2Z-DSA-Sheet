@@ -141,6 +141,12 @@
 | 1 | TopoSort | by using DFS and a data structure Stack | Hard | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/topoSort.cpp) |
 | 2 | Kahn's algo | by using BFS and keeping an indegree[] array | Medium | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/kahns-algo.cpp) |
 
+### Lec 4: Shortest Path algo and Problems
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
+|------|---------|---------------------|-------|------|----------|
+| 1 | Shortest Path in UG | using BFS and distance[] array | Medium | [view](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/shortest-path-in-UG.cpp) |
+
+
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
