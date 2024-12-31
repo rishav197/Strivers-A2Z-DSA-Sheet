@@ -22,6 +22,12 @@
 |------|---------|---------------------|-------|------|----------|
 | 1 | Patterns (all patterns are covered)|  | Easy | [view](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) | [view](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) |
 
+
+### Lec 6: Learn Basic Hashing
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|------|---------|---------------------|-------|------|----------|
+| 2 | Counting frequencies of array elements |  | Easy | [view](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec6-Learn-Basic-Hashing/counting-frequencies-of-arr-elements.cpp) |
+
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
