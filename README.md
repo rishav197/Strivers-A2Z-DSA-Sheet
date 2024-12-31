@@ -15,12 +15,17 @@
 | 7 | While loops |  | Easy | [view](https://www.geeksforgeeks.org/problems/while-loop-printtable-java/1) | [view]() |
 | 8 | Functions (Pass by reference and value) |  | Easy | [view](https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/func-pass-by-ref-and-val.cpp) |
 | 9 | Time Complexity (learn basics) |  | Easy | [view]() | [view](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/) |
+
+
+### Lec 2: Build-up Logical Thinking
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|------|---------|---------------------|-------|------|----------|
+| 1 | Patterns (all patterns are covered)|  | Easy | [view](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) | [view](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) |
+
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
  -->
-
-
 
 
 ## Binary Tree - BT
