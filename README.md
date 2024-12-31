@@ -2,6 +2,20 @@
 
 ## Sheet Link - [view](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
+## Learn the basics
+### Lec 1: Things to know in CPP/Java/Python or any other language
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|------|---------|---------------------|-------|------|----------|
+| 3 | If Else statements |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava) | [view]() |
+
+<!--
+|3 | Problem   |  | Easy | [view]() | [view]() |
+
+ -->
+
+
+
+
 ## Binary Tree - BT
 ### Lec 1: Traversals 
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
