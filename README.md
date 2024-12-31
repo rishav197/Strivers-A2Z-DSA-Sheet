@@ -6,7 +6,7 @@
 ### Lec 1: Things to know in CPP/Java/Python or any other language
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
-| 3 | If Else statements |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava) | [view]() |
+| 3 | If Else statements |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/if-else-statements.cpp) |
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
