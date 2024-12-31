@@ -6,6 +6,8 @@
 ### Lec 1: Things to know in CPP/Java/Python or any other language
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
+| 1 | User Input/Output |  | Easy | [view]() | [view]() |
+| 2 | Data types |  | Easy | [view](https://www.geeksforgeeks.org/problems/data-type-1666706751/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/data-type.cpp) |
 | 3 | If Else statements |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/if-else-statements.cpp) |
 | 4 | Switch Statement |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/switch-statement.cpp) |
 | 5 | What are arrays, strings ? |  | Easy | [view]() | [view]() |
