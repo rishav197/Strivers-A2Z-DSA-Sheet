@@ -7,7 +7,12 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
 | 3 | If Else statements |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/if-else-statements.cpp) |
-
+| 4 | Switch Statement |  | Easy | [view](https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/switch-statement.cpp) |
+| 5 | What are arrays, strings ? |  | Easy | [view]() | [view]() |
+| 6 | For loops |  | Easy | [view](https://www.naukri.com/code360/problems/nth-fibonacci-number_74156) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/nth-fibonacci-num.cpp) |
+| 7 | While loops |  | Easy | [view](https://www.geeksforgeeks.org/problems/while-loop-printtable-java/1) | [view]() |
+| 8 | Functions (Pass by reference and value) |  | Easy | [view](https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Learn-the-basics/Lec1-Things-to-know-in-CPP-Java-Py/func-pass-by-ref-and-val.cpp) |
+| 9 | Time Complexity (learn basics) |  | Easy | [view]() | [view](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/) |
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
 
