@@ -160,6 +160,7 @@
 ### Lec 2: Problems on BFS/DFS
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
+| 3 | Rotten Oranges |  | Medium | [view](https://leetcode.com/problems/rotting-oranges/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/rotten-oranges.cpp) |
 | 5 | Cycle Detection in undirected Graph (BFS) | same as BFS and one condition | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-BFS.cpp) |
 | 6 | Cycle Detection in undirected Graph (DFS) |  | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-DFS.cpp) |
 | 7 | No. of Provinces (leetcode) | by using any of these traversal BFS/DFS and a visited map  | Medium | [view](https://leetcode.com/problems/number-of-provinces/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-provinces-lc.cpp) |
