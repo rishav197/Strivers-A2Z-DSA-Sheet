@@ -178,6 +178,7 @@
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |         
 |------|---------|---------------------|-------|------|----------|
 | 1 | Shortest Path in UG | using BFS and distance[] array | Medium | [view](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/shortest-path-in-UG.cpp) |
+| 3 | Dijkstra Algo | using Set<pair<int,int>> and dist[] array | Medium | [view](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/dijkstra-algo.cpp) |
 
 
 <!--
