@@ -166,6 +166,7 @@
 | 4 | Flood Fill |  | Medium | [view](https://leetcode.com/problems/flood-fill/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/flood-fill.cpp) |
 | 5 | Cycle Detection in undirected Graph (BFS) | same as BFS and one condition | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-BFS.cpp) |
 | 6 | Cycle Detection in undirected Graph (DFS) |  | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-Undirected-graph-DFS.cpp) |
+| 7 | Distance of nearest cell having 1 (Same as 0/1 matrix problem on LC) | Based on BFS, Using Queue of pair of (row,col), step, vis[][] and dist[][] grid | Medium | [view](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | [view]() |
 | 14 | Cycle Detection in directed Graph (DFS) | by using DFS and a extra dfsVisited[] | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1?page=1&category=Graph&sortBy=submissions) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-in-Directed-graph-DFS.cpp) |
 
 <!--
