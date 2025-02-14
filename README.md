@@ -172,6 +172,7 @@
 | 8 | Replace O's with X's |  | Medium | [view](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/replace-Os-with-Xs-gfg.cpp) |
 | 9 | Number of Enclaves (dfs) |  | Medium | [view](https://leetcode.com/problems/number-of-enclaves/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-enclaves.cpp) |
 | 12 | Number of Distinct Islands (dfs) |  | Medium | [view](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/num-of-distinct-islands.cpp) |
+| 13 | Is Bipartite graph |  | Hard | [view](https://leetcode.com/problems/is-graph-bipartite/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/bipartite-graph-dfs.cpp) |
 | 14 | Cycle Detection in directed Graph (DFS) | by using DFS and a extra dfsVisited[] | Medium | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1?page=1&category=Graph&sortBy=submissions) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec2-Problems-on-BFS-DFS/Cycle-detection-in-Directed-graph-DFS.cpp) |
 
 <!--
