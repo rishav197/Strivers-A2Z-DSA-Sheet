@@ -187,7 +187,8 @@
 | 1 | TopoSort | by using DFS and a data structure Stack | Hard | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/topoSort.cpp) |
 | 2 | Kahn's algo | by using BFS and keeping an indegree[] array | Hard | [view](https://www.geeksforgeeks.org/problems/topological-sort/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/kahns-algo.cpp) |
 | 3 | Cycle Detection in Directed Graph (BFS) |  | Hard | [view](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/cycle-detection-in-Directed-graph-BFS.cpp) |
-| 6 | Find Eventul Safe States | using topoSort | Medium | [view](https://leetcode.com/problems/find-eventual-safe-states/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/find-eventual-safe-states.cpp) |
+| 6 | Find Eventul Safe States | using topoSort | Hard | [view](https://leetcode.com/problems/find-eventual-safe-states/description/) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/find-eventual-safe-states.cpp) |
+| 7 | Alien dictionary | using topoSort | Hard | [view](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec3-TopoSort-and-Problems/alien-dictionary.cpp) |
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
