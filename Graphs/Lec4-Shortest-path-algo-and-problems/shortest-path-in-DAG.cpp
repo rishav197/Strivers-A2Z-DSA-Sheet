@@ -56,7 +56,7 @@ class Solution {
               }
           }
           
-          //updating dist for nodes which unreachable
+          //updating dist for nodes which are unreachable
           for(int i=0; i<V; i++){
               if(dist[i]==1e9){
                   dist[i]=-1;
