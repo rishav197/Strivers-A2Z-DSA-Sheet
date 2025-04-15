@@ -203,6 +203,7 @@
 | 1 | Shortest Path in UG | using BFS and distance[] array | Medium | [view](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/shortest-path-in-UG.cpp) |
 | 2 | Shortest Path in DAG | Using topoSort and dist array update | Medium | [view](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1?page=1&category=Graph&sortBy=submissions) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/shortest-path-in-DAG.cpp) |
 | 3 | Dijkstra Algo | using Set<pair<int,int>> and dist[] array | Medium | [view](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/dijkstra-algo.cpp) |
+| 4 | Djisktra's Algorithm using PQ (min-heap) | Using PQ(min-heap), dist[] array & BFS | Medium | [view](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?page=1&category=Graph&sortBy=submissions) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Graphs/Lec4-Shortest-path-algo-and-problems/dijkstra-algo-using-pq.cpp) |
 
 
 
