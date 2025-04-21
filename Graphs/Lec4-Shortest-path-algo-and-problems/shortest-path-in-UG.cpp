@@ -43,7 +43,7 @@ class Solution {
 
 
 /*
-approach 2 : using BFS, Visited[] array and Parent mapping when both source and destination nodes are given
+approach 2 : Using BFS, Visited[] array and Parent mapping when both source and destination nodes are given
 */
 
 #include<unordered_map>
