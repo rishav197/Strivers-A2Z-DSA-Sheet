@@ -1,3 +1,6 @@
+/* approach 1 : Using BFS and dist[] array
+*/
+
 class Solution {
   public:
     // Function to find the shortest path from source to all other nodes
