@@ -3,6 +3,15 @@
 ## Sheet Link - [view](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ## Arrays
+### Lec 1: Easy
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|------|---------|---------------------|-------|------|----------|
+| 1 | User Input/Output |  | Easy |  |  |
+
+<!--
+|3 | Problem   |  | Easy | [view]() | [view]() |
+
+ -->
 
 ## Learn the basics
 ### Lec 1: Things to know in CPP/Java/Python or any other language
