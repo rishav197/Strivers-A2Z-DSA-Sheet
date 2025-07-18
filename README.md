@@ -6,7 +6,7 @@
 ### Lec 1: Easy
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |------|---------|---------------------|-------|------|----------|
-| 1 | User Input/Output |  | Easy |  |  |
+| 1 | Largest Element in Array |  | Easy | [view](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [view](https://github.com/rishav197/Strivers-A2Z-DSA-Sheet/blob/main/Arrays/Lec1-Easy/largest-element-in-arr.cpp) |
 
 <!--
 |3 | Problem   |  | Easy | [view]() | [view]() |
