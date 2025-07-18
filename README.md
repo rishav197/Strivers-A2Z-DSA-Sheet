@@ -2,6 +2,8 @@
 
 ## Sheet Link - [view](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
+## Arrays
+
 ## Learn the basics
 ### Lec 1: Things to know in CPP/Java/Python or any other language
 |S.No. | Problem | Approach/Logic used | Level | Link | Solution |
