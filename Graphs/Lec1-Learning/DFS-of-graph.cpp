@@ -26,3 +26,36 @@ class Solution {
         return ans;   
     }
 };
+
+
+
+
+/* ------------------------------------------------------ */ 
+class Solution {
+  public:
+    void dfsTrsl(vector<vector<int>> &adj, vector<bool> &vis, vector<int> &ans, int node){
+        ans.push_back(node); //store answer
+        vis[node]=1; //mark visited
+        
+        //traverse all neighbours of the node
+        for(auto ngr : adj[node]){
+            if(!vis[ngr]){
+                //recursive call
+                dfsTrsl(adj, vis, ans, ngr); 
+            }
+        }
+    }
+    
+    vector<int> dfs(vector<vector<int>>& adj) {
+        
+        int n = adj.size();
+        vector<int> ans; 
+        vector<bool> vis(n, 0);
+        
+        int srcNode = 0;
+        dfsTrsl(adj, vis, ans, srcNode);
+        
+        return ans;
+        
+    }
+};
